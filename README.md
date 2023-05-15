@@ -30,7 +30,7 @@ Languages  :  Python, JS, C++, Ubuntu
 <p align="left">
   <a href="https://V01D-co.github.io">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=V01D-co&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=xEvanescent&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=V01D-co&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
